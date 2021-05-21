@@ -1,0 +1,12 @@
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\bin\Release\GPA Calculator Program.exe.config
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\bin\Release\GPA Calculator Program.exe
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\bin\Release\GPA Calculator Program.pdb
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA_Calculator_Program.Form1.resources
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA_Calculator_Program.Properties.Resources.resources
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA_Calculator_Program.UserControl1.resources
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA_Calculator_Program.UserControl2.resources
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA_Calculator_Program.UserControl3.resources
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA Calculator Program.csproj.GenerateResource.cache
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA Calculator Program.csproj.CoreCompileInputs.cache
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA Calculator Program.exe
+D:\Media_inD\Document_inD\Programming\myProgram\C#\GPA Calculator Project\GPA Calculator Program\GPA Calculator Program\obj\Release\GPA Calculator Program.pdb
